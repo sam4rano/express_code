@@ -1,0 +1,17 @@
+{
+  "name": "express_code",
+  "version": "1.0.0",
+  "description": "express backend tutorial",
+  "main": "index.js",
+  "scripts": {
+    "start":"node server",
+    "dev":"node --watch server"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
